@@ -1,7 +1,7 @@
 module.exports = {
   players: [
     {
-      name: "Kike Hernadze",
+      name: "Kike Hernandez",
       AB: 202,
       R: 24,
       H: 62,
